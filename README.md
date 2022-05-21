@@ -1,6 +1,6 @@
 # Implementation-of-Erosion-and-Dilation
 ## Aim
-To implement Erosion and Dilation using python and openCV.
+To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
 1. Anaconda - Python 3.7
 2. OpenCV
